@@ -1,7 +1,1 @@
-{"versions": [{"versiontype": "proofreading",
-		"title": "German(ic) in language contact",
-		"authors": [{"name": "Christian Zimmer"}],
-	"license": "CC-BY-4.0",
-	"publishedAt": "2021-03-18T08:52:55.000Z"}
-	]
-}
+{"versions": [{"authors": [{"name": "Christian Zimmer"}], "title": "German(ic) in language contact", "publishedAt": "2021-03-18T08:52:55.000Z", "license": "CC-BY-4.0", "versiontype": "proofreading"}, {"title": "German(ic) in language contact", "versiontype": "first_edition", "license": "CC-BY-4.0", "publishedAt": "2021-08-23T15:34:46.345787", "authors": [{"name": "Christian Zimmer"}]}]}
